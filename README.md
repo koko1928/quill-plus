@@ -1,2 +1,2 @@
-# re-quill
+# quill plus
 This is an interpreter for a new homebrew programming language, Quill. Written in C++.
