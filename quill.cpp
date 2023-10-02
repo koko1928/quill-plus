@@ -14,7 +14,7 @@ public:
     }
 
     void run() {
-        std::cout << "C/JavaScript/Go-Like Language Interpreter" << std::endl;
+        std::cout << "Quill language's Interpreter" << std::endl;
         std::cout << "Type 'quit' to exit." << std::endl;
 
         while (true) {
